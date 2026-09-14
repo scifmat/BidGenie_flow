@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "hooks": {
+        "SessionStart": [
+            {
+                "hooks": [
+                    {
+                        "type": "command",
+                        "command": "python .trae/hooks_scripts/session_start.py",
+                        "timeout": 15
+                    }
+                ]
+            }
+        ]
+    }
+}

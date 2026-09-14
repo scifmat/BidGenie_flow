@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Time": {
+      "command": "uvx",
+      "args": [
+        "--with",
+        "mcp<2",
+        "mcp-server-time",
+        "--local-timezone=Asia/Shanghai"
+      ],
+      "env": {},
+      "fromGalleryId": "byted-mcp-volcengine.time"
+    }
+  }
+}

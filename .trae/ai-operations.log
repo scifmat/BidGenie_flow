@@ -1,0 +1,24 @@
+[2026-07-22 16:44:02] LS: {"path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.agents\\skills"}
+[2026-07-22 16:44:50] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 101426_m8e9p2\\metadata.json"}
+[2026-07-22 16:44:59] Glob: {"pattern": "**/metadata.json", "path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project"}
+[2026-07-22 16:45:15] LS: {"path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project"}
+[2026-07-22 16:45:37] Glob: {"pattern": "**/*.json", "path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project"}
+[2026-07-22 16:52:17] LS: {"path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow"}
+[2026-07-22 16:52:17] LS: {"path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.agents\\skills"}
+[2026-07-22 16:52:34] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.agents\\skills\\file_conversion\\SKILL.py"}
+[2026-07-22 16:54:15] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file\\01_source.md", "limit": 100}
+[2026-07-22 16:55:09] Skill: {"name": "document_parsing"}
+[2026-07-22 16:55:49] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.trae\\agents\\extract-info-agent.md"}
+[2026-07-22 16:56:30] Glob: {"pattern": "**/*.md", "path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file"}
+[2026-07-22 16:56:46] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file\\01_Bidding_Documents.md"}
+[2026-07-22 16:56:47] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.agents\\skills\\document_parsing\\templates\\common_file\\01_Basic_Information.md"}
+[2026-07-22 16:56:52] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\.agents\\skills\\document_parsing\\templates\\common_file\\05_Substantive_Response.md"}
+[2026-07-22 16:57:14] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file\\01_Bidding_Documents.md", "offset": 688}
+[2026-07-22 16:57:33] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file\\01_Bidding_Documents.md", "offset": 1248}
+[2026-07-22 16:57:48] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\source_file\\01_Bidding_Documents.md", "offset": 1713}
+[2026-07-22 17:09:23] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\extraction_file\\common_file\\01_Basic_Information.md"}
+[2026-07-22 17:11:53] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\extraction_file\\packages_file\\package_1\\06_Procurement_Content.md"}
+[2026-07-22 17:11:55] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\extraction_file\\packages_file\\package_1\\08_Business_Requirements.md"}
+[2026-07-22 17:11:57] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\extraction_file\\packages_file\\package_1\\09_Technical_Requirements.md"}
+[2026-07-22 17:13:27] Read: {"file_path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m\\Supplementary_info.md"}
+[2026-07-22 17:19:04] LS: {"path": "c:\\Users\\Administrator\\Desktop\\projects\\BidGenie_flow\\bid_project\\20260722 165358_nu436m"}
